@@ -1,0 +1,4 @@
+Id Name Id City
+Id: 1 Name: Roman Id: 1 City: Lviv
+Id: 1 Name: Roman Id: 2 City: Kyiv
+Id: 2 Name: Ivan Id: 2 City: Kyiv
